@@ -44,7 +44,10 @@ This program download the the Salah timetable from our database. And every month
 
 - 30 seconds from last notification, your PC will automatically get locked!
 
+## Screenshots
 
+![Icon in Taskbar(SysTray)](/imgs/1.png)
+Format: ![Alt Text](url)
 
 ## FAQ:
 **Q:** Do I need to run the program everytime I open my PC/Laptop?  
