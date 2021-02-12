@@ -81,6 +81,9 @@ This program download the the Salah timetable from our database. And every month
 ![Exit)](/imgs/7.png)
 
 
+## To download the program, visit [Releases](https://github.com/ind4mnl4t0r/PC-Detoxer-PrayerEdition/releases)
+
+
 ## FAQ:
 **Q:** Do I need to run the program everytime I open my PC/Laptop?  
 **A:** *NO! The program will automatically starts everytime you open you PC/Laptop. So you don't need to worry about it!*
