@@ -81,7 +81,7 @@ This program download the the Salah timetable from our database. And every month
 ![Exit)](/imgs/7.png)
 
 
-## To download the program, visit [Releases](https://github.com/ind4mnl4t0r/PC-Detoxer-PrayerEdition/releases)
+### To download the program, visit [Releases](https://github.com/ind4mnl4t0r/PC-Detoxer-PrayerEdition/releases)
 
 
 ## FAQ:
