@@ -50,9 +50,35 @@ This program download the the Salah timetable from our database. And every month
 
 ![Icon in Taskbar(SysTray)](/imgs/1.png)
 
+
 **- If you couldn't find the icon, click this arrow!**:
 
 ![Icon in SysTray)](/imgs/2.png)
+
+
+**- This is the user setup screen!**:
+
+![User setup)](/imgs/3.png)
+
+
+**- This is the login screen!**:
+
+![Login)](/imgs/4.png)
+
+
+**- This is the Updater!**:
+
+![Updater)](/imgs/5.png)
+
+
+**- This is the Help screen!**:
+
+![Help)](/imgs/6.png)
+
+
+**- This is the Exit prompt!**:
+
+![Exit)](/imgs/7.png)
 
 
 ## FAQ:
