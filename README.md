@@ -47,7 +47,7 @@ This program download the the Salah timetable from our database. And every month
 ## Screenshots
 
 ![Icon in Taskbar(SysTray)](/imgs/1.png)
-Format: ![Alt Text](url)
+**This is how icon will show up in Taskbar(SysTray)**
 
 ## FAQ:
 **Q:** Do I need to run the program everytime I open my PC/Laptop?  
