@@ -56,27 +56,27 @@ This program download the the Salah timetable from our database. And every month
 ![Icon in SysTray)](/imgs/2.png)
 
 
-**- This is the user setup screen!**:
+**- User setup screen!**:
 
 ![User setup)](/imgs/3.png)
 
 
-**- This is the login screen!**:
+**- Login screen!**:
 
 ![Login)](/imgs/4.png)
 
 
-**- This is the Updater!**:
+**- Updater!**:
 
 ![Updater)](/imgs/5.png)
 
 
-**- This is the Help screen!**:
+**- Help!**:
 
 ![Help)](/imgs/6.png)
 
 
-**- This is the Exit prompt!**:
+**- Exit prompt!**:
 
 ![Exit)](/imgs/7.png)
 
