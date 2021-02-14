@@ -79,7 +79,6 @@ This program download the the Salah timetable from our database. And every month
 ### To download the program, visit [Releases](https://github.com/ind4mnl4t0r/PC-Detoxer-PrayerEdition/releases)
 
 ### Contact us!:
-Send a mail!
 [![Email](/imgs/email.png)](mailto:ind4.official@gmail.com) 
 
 ## FAQ:
