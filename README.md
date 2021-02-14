@@ -78,8 +78,8 @@ This program download the the Salah timetable from our database. And every month
 
 ### To download the program, visit [Releases](https://github.com/ind4mnl4t0r/PC-Detoxer-PrayerEdition/releases)
 
-### Contacts:
-[![Email](/imgs/email.png)](ind4.official@gmail.com)
+### Contact us!:
+[![Email](/imgs/email.png)](ind4.official@gmail.com)   [![Email](/imgs/email.png)](ind4.official@gmail.com)
 
 ## FAQ:
 **Q:** Do I need to run the program everytime I open my PC/Laptop?  
