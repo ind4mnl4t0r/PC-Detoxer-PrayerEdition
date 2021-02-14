@@ -48,12 +48,12 @@ This program download the the Salah timetable from our database. And every month
 
 **- This is how icon will show up in Taskbar(SysTray)**:
 
-![Icon in Taskbar(SysTray)](/imgs/1.png)
+![Icon in Taskbar(SysTray)](/imgs/8.png)
 
 
 **- If you couldn't find the icon, click this arrow!**:
 
-![Icon in SysTray)](/imgs/2.png)
+![Icon in SysTray)](/imgs/9.png)
 
 
 **- User setup screen!**:
@@ -76,9 +76,9 @@ This program download the the Salah timetable from our database. And every month
 ![Help)](/imgs/6.png)
 
 
-**- Exit prompt!**:
+**- Logout prompt!**:
 
-![Exit)](/imgs/7.png)
+![Exit)](/imgs/10.png)
 
 
 ### To download the program, visit [Releases](https://github.com/ind4mnl4t0r/PC-Detoxer-PrayerEdition/releases)
