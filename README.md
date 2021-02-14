@@ -93,7 +93,8 @@ This program download the the Salah timetable from our database. And every month
 **A:** *You can request for a new Country/City by filling this application [County/City request application](https://forms.gle/VWLVvrGecUNE6bTL8)*
 
 **Q:** I can't update, it's telling me to contect the developer, what should I do?  
-**A:** *Please exit the program and start it again as Administrator! You only need to do this when you're updating the program!*
+**A:** *Please exit the program and start it again as **Administrator**! You only need to do this when you're updating the program!*   
+**Note:** *Right click on the icon in the desktop and click **Run as administrator***   
 
 **Q:** I found a bug. What should I do?  
 **A:** *Please report the bug by filling this [Bug Report](https://forms.gle/DMdtgAswRPm6jgBv8) form*
