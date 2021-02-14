@@ -95,8 +95,8 @@ This program download the the Salah timetable from our database. And every month
 **Q:** I can't update, it's telling me to contect the developer, what should I do?  
 **A:** *Please exit the program and start it again as Administrator! You only need to do this when you're updating the program!*
 
-**Q:** I found a bug. What should I do? 
+**Q:** I found a bug. What should I do?  
 **A:** *Please report the bug by filling this [Bug Report](https://forms.gle/DMdtgAswRPm6jgBv8) form*
 
-**Q:** I like to review the program...
+**Q:** I like to review the program...  
 **A:** *Feel free to visit this [Feedback Form](https://forms.gle/n9xEnDSfP1MF3acP9) for review and feedback!*
