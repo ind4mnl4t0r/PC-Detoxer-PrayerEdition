@@ -71,11 +71,6 @@ This program download the the Salah timetable from our database. And every month
 ![Updater)](/imgs/5.png)
 
 
-**- Help!**:
-
-![Help)](/imgs/6.png)
-
-
 **- Logout prompt!**:
 
 ![Exit)](/imgs/10.png)
