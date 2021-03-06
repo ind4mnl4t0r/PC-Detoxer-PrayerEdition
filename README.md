@@ -51,7 +51,7 @@ This program download the the Salah timetable from our database. And every month
 
 - _30 seconds from last notification, your PC will automatically get locked!_
 
-- _The program will automaticly check for updates every Monday and every fisrt of the month (You need to be connected to internet!)_
+- _The program will automaticly check for updates every Monday and every first of the month (You need to be connected to internet!)_
 
 ## Screenshots
 
