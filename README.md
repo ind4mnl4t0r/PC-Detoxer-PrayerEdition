@@ -5,15 +5,17 @@
 PC-Detoxer is a simple program that notify you when it's time to pray.
 But, there's more to this.
 
-Some people misses their prayer! They might be, Working, Studying, or even playing Video Games on their PC.
-and they forgot to do the prayer at the time. 
-This is a serious issue. You don't want to miss the prayer. Do you?
+Some people miss their prayer on time due to their studies, they might be surfing internet or even playing video games etc...
+and they forgot the prayer on time. 
+So this is something serious, that people go through. You don't want to miss a prayer. Do you? (we hope you don't)
 
-That is why we built this simple program. By using this, it'll notify you when it's time to pray. and, If you still didn't get off the chair, 
-it'll notify you again. and this time it'll lock you out from your own PC! So you can pray without distraction. 
+Here comes a new option which is gonna make you remind the prayer time on your PC!
+Actually, this will not only make you remind the prayer time, it'll also make you do the prayer!
+This is how it works, it'll notifies you when it's time to pray. And still if you are not ready to get off from your spot,
+it'll notify you again. and then, the PC will get locked automatically. So, the prayer is not going to get distracted!
 
-This is also very useful and effective on kids who always on your/their PC or Laptop, Playing Video Games, surfing internet, etc,.
-This can make them do their prayers at the time! And also make you a good parent!
+This program is mainly effective to the kids who always on your/their PC or Laptop, playing video games, surfing internet, etc,.
+You can do a good parenting to your kids by making them pray on time!
 
 Using the program is very simple and clear.
 - Install the program
@@ -27,8 +29,8 @@ Side Notes.
 - KEEP THE USERNAME AND PASSWORD HIDDEN FROM YOUR KIDS (if you're using this as a parenting tool)
 
 WARNING.
-- If you're a working in office (for example: Police Station, Hospital, Bank, Fire Station, etc) or even working from home,
-We suggest you to avoid using PC-Detoxer!
+- Please avoid using PC-Detoxer if you are working in a office like a Police Station, Hospital, Bank, Fire Station or even when working from home etc...
+Since it's going to distract your work due to the automated lock!
 
 
 ## Features in Detail
@@ -39,7 +41,7 @@ This program download the the Salah timetable from our database. And every month
 - When the Azan time comes, the program will show a notification. The notification is, 
 "Your PC will be locked in next 3 minutes. Please save your works NOW!"
 
-- After 3 minutes from the 1st notification, another notification will popup The notification is, 
+- After 3 minutes from the 1st notification, another notification will pop-up. The notification is, 
 "Your PC will be locked in 30sec!"
 
 - 30 seconds from last notification, your PC will automatically get locked!
