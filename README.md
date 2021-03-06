@@ -24,7 +24,7 @@ You can do a good parenting to your kids by making them pray on time!
 
 Using the program is very simple and clear.
 - _Install the program_
-- _Create a user account_
+- _Create an user account_
 - _Update it by Selecting the country and the city you are in_
 - _That's it!_
 
@@ -41,15 +41,15 @@ Since it's going to distract your work due to the automated lock!_**
 ## Features in Detail
 This program download the the Salah timetable from our database. And every month, we update our database!
 
-- The program runs on background
+- _The program runs on background_
 
-- When the Azan time comes, the program will show a notification. The notification is, 
-"Your PC will be locked in next 3 minutes. Please save your works NOW!"
+- _When the Azan time comes, the program will show a notification. The notification is,_ 
+**"Your PC will be locked in next 3 minutes. Please save your works NOW!"**
 
-- After 3 minutes from the 1st notification, another notification will pop-up. The notification is, 
-"Your PC will be locked in 30sec!"
+- _After 3 minutes from the 1st notification, another notification will pop-up. The notification is,_ 
+**"Your PC will be locked in 30sec!"**
 
-- 30 seconds from last notification, your PC will automatically get locked!
+- _30 seconds from last notification, your PC will automatically get locked!_
 
 ## Screenshots
 
