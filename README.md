@@ -1,3 +1,5 @@
+![header](/imgs/form_header.png)
+
 # PC-Detoxer© - PrayerEdition
 
 #### Introduction
