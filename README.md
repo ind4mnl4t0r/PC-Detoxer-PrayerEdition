@@ -13,7 +13,7 @@ So this is something serious, that people are going through. You don't want to m
 
 Here comes a new option which is gonna make you remind the prayer time on your PC!
 
-Actually, this will not only make you remind the prayer time, it'll also make you do the prayer!
+**Actually, this will not only make you remind the prayer time, it'll also make you do the prayer!**
 
 This is how it works, it'll notifies you when it's time to pray. And still if you are not ready to get off from your spot,
 it'll notify you again. and then, the PC will get locked automatically. So, the prayer is not going to get distracted!
@@ -23,19 +23,19 @@ and adults who are struggling with their prayers due to the same reasons.
 You can do a good parenting to your kids by making them pray on time!
 
 Using the program is very simple and clear.
-- Install the program
-- Create a user account
-- Update it by Selecting the country and the city you are in
-- That's it!
+- _Install the program_
+- _Create a user account_
+- _Update it by Selecting the country and the city you are in_
+- _That's it!_
 
 Side Notes.
-- Creating a user account is one-time action!
-- You NEED that username and password to update and exit the program!
-- KEEP THE USERNAME AND PASSWORD HIDDEN FROM YOUR KIDS (if you're using this as a parenting tool)
+- _Creating a user account is one-time action!_
+- _You NEED that username and password to update and exit the program!_
+- _KEEP THE USERNAME AND PASSWORD HIDDEN FROM YOUR KIDS (if you're using this as a parenting tool)_
 
-WARNING.
-- Please avoid using PC-Detoxer if you are working in a office like a Police Station, Hospital, Bank, Fire Station or even when working from home etc...
-Since it's going to distract your work due to the automated lock!
+**WARNING!**
+**- _Please avoid using PC-Detoxer if you are working in a office like an Police Station, Hospital, Bank, Fire Station or even when working from home etc...
+Since it's going to distract your work due to the automated lock!_**
 
 
 ## Features in Detail
