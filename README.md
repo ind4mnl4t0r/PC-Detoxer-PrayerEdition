@@ -29,9 +29,9 @@ Using the program is very simple and clear.
 - _That's it!_
 
 Side Notes.
-- _Creating a user account is one-time action!_
+- _Creating an user account is one-time action!_
 - _You NEED that username and password to update and exit the program!_
-- _KEEP THE USERNAME AND PASSWORD HIDDEN FROM YOUR KIDS (if you're using this as a parenting tool)_
+- _**KEEP THE USERNAME AND PASSWORD HIDDEN FROM YOUR KIDS (if you're using this as a parenting tool)**_
 
 **WARNING!**
 **- _Please avoid using PC-Detoxer if you are working in a office like an Police Station, Hospital, Bank, Fire Station or even when working from home etc...
@@ -50,6 +50,8 @@ This program download the the Salah timetable from our database. And every month
 **"Your PC will be locked in 30sec!"**
 
 - _30 seconds from last notification, your PC will automatically get locked!_
+
+- _The program will automaticly check for updates every Monday and every fisrt of the month (You need to be connected to internet!)_
 
 ## Screenshots
 
