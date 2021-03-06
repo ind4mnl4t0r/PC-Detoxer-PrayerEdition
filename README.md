@@ -10,11 +10,14 @@ and they forgot the prayer on time.
 So this is something serious, that people are going through. You don't want to miss a prayer. Do you? (we hope you don't)
 
 Here comes a new option which is gonna make you remind the prayer time on your PC!
+
 Actually, this will not only make you remind the prayer time, it'll also make you do the prayer!
+
 This is how it works, it'll notifies you when it's time to pray. And still if you are not ready to get off from your spot,
 it'll notify you again. and then, the PC will get locked automatically. So, the prayer is not going to get distracted!
 
 This program is mainly effective to the kids who always on your/their PC or Laptop, playing video games, surfing internet, etc,.
+and adults who are struggling with their prayers due to the same reasons.
 You can do a good parenting to your kids by making them pray on time!
 
 Using the program is very simple and clear.
