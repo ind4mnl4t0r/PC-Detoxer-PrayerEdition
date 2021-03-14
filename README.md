@@ -8,7 +8,7 @@ PC-Detoxer is a simple program that notifies you when it's time to pray.
 But, there's more to this.
 
 Some people miss their prayer on time due to their studies, they might be surfing internet or even playing video games etc...
-and they forgot the prayer on time. 
+and they forget the prayer on time. 
 So this is something serious, that people are going through. You don't want to miss a prayer. Do you? (we hope you don't)
 
 Here comes a new option which is gonna make you remind the prayer time on your PC!
