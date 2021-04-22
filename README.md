@@ -33,7 +33,7 @@ Side Notes.
 - _You NEED that username and password to update and exit the program!_
 - _**KEEP THE USERNAME AND PASSWORD HIDDEN FROM YOUR KIDS (if you're using this as a parenting tool)**_
 
-**WARNING!**
+###**WARNING!**
 **- _Please avoid using PC-Detoxer if you are working in a office like an Police Station, Hospital, Bank, Fire Station or even when working from home etc...
 Since it's going to distract your work due to the automated lock!_**
 
