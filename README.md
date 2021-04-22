@@ -34,7 +34,7 @@ Side Notes.
 - _**KEEP THE USERNAME AND PASSWORD HIDDEN FROM YOUR KIDS (if you're using this as a parenting tool)**_
 
 ## **WARNING!**
-### Please avoid using PC-Detoxer if you are working in a office like an Police Station, Hospital, Bank, Fire Station or even when working from home etc...
+### Please avoid using PC-Detoxer if you are an employee in an office or similer place (for example, Police Station, Hospital, Bank, Fire Station or even working from home etc...)
 ### Since it's going to distract your work due to the automated lock!
 
 
