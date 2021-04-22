@@ -93,18 +93,18 @@ This program download the the Salah timetable from our database. And every month
 ind4.official@gmail.com
 
 ## FAQ:
-**Q:** Do I need to run the program everytime I open my PC/Laptop?  
+**Q:** **Do I need to run the program everytime I open my PC/Laptop?**  
 **A:** *NO! The program will automatically starts everytime you open you PC/Laptop. So you don't need to worry about it!*
 
-**Q:** I can't find my City in the program update menu...  
+**Q:** **I can't find my City in the program update menu...** 
 **A:** *You can request for a new Country/City by filling this application [County/City request application](https://forms.gle/VWLVvrGecUNE6bTL8)*
 
-**Q:** I can't update, it's telling me to contect the developer, what should I do?  
+**Q:** **I can't update, it's telling me to contect the developer, what should I do?**  
 **A:** *Please exit the program and start it again as **Administrator**! You only need to do this when you're updating the program!*   
 **Note:** __Right click on the icon in the desktop and click "Run as administrator"__   
 
-**Q:** I found a bug. What should I do?  
+**Q:** **I found a bug. What should I do?**  
 **A:** *Please report the bug by filling this [Bug Report](https://forms.gle/DMdtgAswRPm6jgBv8) form*
 
-**Q:** I like to review the program...  
+**Q:** **I like to review the program...**  
 **A:** *Feel free to visit this [Feedback Form](https://forms.gle/n9xEnDSfP1MF3acP9) for review and feedback!*
