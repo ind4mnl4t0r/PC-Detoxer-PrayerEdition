@@ -85,7 +85,7 @@ This program download the the Salah timetable from our database. And every month
 ![Exit)](/imgs/10.png)
 
 
-### PLEASE READ THE [END-USER LICENSE AGREEMENT](EULA.pdf)
+### IT IS RECOMMENDED TO TAKE TIME AND READ THE [END-USER LICENSE AGREEMENT](EULA.pdf) BEFORE DOWNLOADING!
 
 ### To download the program, visit [Releases](https://github.com/ind4mnl4t0r/PC-Detoxer-PrayerEdition/releases)
 
