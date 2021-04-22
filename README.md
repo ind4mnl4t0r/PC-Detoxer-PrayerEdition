@@ -101,7 +101,7 @@ ind4.official@gmail.com
 
 **Q:** **I can't update, it's telling me to contect the developer, what should I do?**  
 **A:** *Please exit the program and start it again as **Administrator**! You only need to do this when you're updating the program!*   
-**Note:** __Right click on the icon in the desktop and click "Run as administrator"__   
+**Note:** _**Right click on the icon in the desktop and click "Run as administrator"**_  
 
 **Q:** **I found a bug. What should I do?**  
 **A:** *Please report the bug by filling this [Bug Report](https://forms.gle/DMdtgAswRPm6jgBv8) form*
