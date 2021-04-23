@@ -111,3 +111,6 @@ ind4.official@gmail.com
 
 **Q:** **I found a part that need an improvement**  
 **A:** *Send us a mail @ ind4.official@gmail.com, we will try our best!*
+
+**Q:** **I'd like to support/contribute to the development of the project**
+**A:** *Please contact us @ ind4.official@gmail.com. Support and contributions are always welcome!*
