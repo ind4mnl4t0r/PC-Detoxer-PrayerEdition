@@ -108,3 +108,6 @@ ind4.official@gmail.com
 
 **Q:** **I like to review the program...**  
 **A:** *Feel free to visit this [Feedback Form](https://forms.gle/n9xEnDSfP1MF3acP9) for review and feedback!*
+
+**Q:** **I found a part that need an improvement**
+**A:** *Send us a mail @ ind4.official@gmail.com, we will try our best!*
