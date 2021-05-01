@@ -3,7 +3,7 @@
 # PC-Detoxer© - PrayerEdition
 
 ## Release History
-#### v1.0.0.0
+### v1.0.0.0
 
 
 ## Welcome!
