@@ -5,6 +5,8 @@
 ## Release History
 #### v1.0.0.0
 
+
+## Welcome!
 #### Introduction
 
 PC-Detoxer is a simple program that notifies you when it's time to pray.
