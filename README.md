@@ -8,6 +8,7 @@
 
 ### v1.0.1.0
 - Added new cities ***(Trincomalee, Kalkudah, Valaichchenai, Batticaloa, Kalmunai, Akkaraipattu, Pottuvil, Kalpitiya, Puttalam, Anuradhapura, Mannar, Erukkalampiddy, Jaffna)***
+- Added new country and city ***(Canada, Ontario - Kitchener)***
 
 
 ## Welcome!
