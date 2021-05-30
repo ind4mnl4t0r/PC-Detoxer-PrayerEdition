@@ -10,10 +10,10 @@
 - Added new cities ***(Trincomalee, Kalkudah, Valaichchenai, Batticaloa, Kalmunai, Akkaraipattu, Pottuvil, Kalpitiya, Puttalam, Anuradhapura, Mannar, Erukkalampiddy, Jaffna)***
 - Added new country and city ***(Canada, Ontario - Kitchener)***
 
-### v1.0.1.1_beta
+### v1.0.2.1-beta
 - Few minor bug fixes
 - Minor optimization
-- Added an experimental feature (Today Window)
+- Added an experimental feature **Today Window**
 
 _NOTE: If you want to try the beta release, you should uninstall any previous installation of PC-Detoxer before installing beta version!_
 
