@@ -67,7 +67,7 @@ This program download the the Salah timetable from our database. And every month
 
 **- This is how icon will show up in Taskbar(SysTray)**:
 
-![Icon in Taskbar(SysTray)](/imgs/8.png)
+![Icon in Taskbar(SysTray)](/imgs/icon_1.gif)
 
 
 **- If you couldn't find the icon, click this arrow!**:
