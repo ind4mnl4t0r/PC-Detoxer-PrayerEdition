@@ -3,14 +3,14 @@
 # PC-Detoxer© - PrayerEdition
 
 ## Release History
-### v1.0.0.0
+### v1.0.0.0 (26th April 2021)
 - Initial release
 
-### v1.0.1.0
+### v1.0.1.0 (2nd May 2021)
 - Added new cities ***(Trincomalee, Kalkudah, Valaichchenai, Batticaloa, Kalmunai, Akkaraipattu, Pottuvil, Kalpitiya, Puttalam, Anuradhapura, Mannar, Erukkalampiddy, Jaffna)***
 - Added new country and city ***(Canada, Ontario - Kitchener)***
 
-### v1.0.2.1-beta
+### v1.0.2.1-beta (1st June 2021)
 - Few minor bug fixes
 - Minor optimization
 - Added an experimental feature **Today Window**
