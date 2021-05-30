@@ -65,35 +65,43 @@ This program download the the Salah timetable from our database. And every month
 
 ## Screenshots
 
-**- This is how icon will show up in Taskbar(SysTray)**:
+**- This is how icon will show up in Taskbar(SysTray):**
 
 ![Icon in Taskbar(SysTray)](/imgs/icon_1.gif)
 
 
-**- If you couldn't find the icon, click this arrow!**:
+**- If you couldn't find the icon, click this arrow!:**
 
-![Icon in SysTray)](/imgs/9.png)
+![Icon in SysTray)](/imgs/icon_2.gif)
 
 
-**- User setup screen!**:
+**- User setup screen!:**
 
 ![User setup)](/imgs/3.png)
 
 
-**- Login screen!**:
+**- Login screen!:**
 
 ![Login)](/imgs/4.png)
 
 
-**- Updater!**:
+**- Updater!:**
 
 ![Updater)](/imgs/5.png)
 
 
-**- Logout prompt!**:
+**- Logout prompt!:**
 
 ![Exit)](/imgs/10.png)
 
+
+**- Today Window (New):**
+
+![Today)](/imgs/today_1.gif)
+
+**- Today Window (New):**
+
+![Today)](/imgs/today_2.gif)
 
 ### IT IS RECOMMENDED TO TAKE TIME AND READ THE [END-USER LICENSE AGREEMENT](EULA.pdf) BEFORE DOWNLOADING!
 
