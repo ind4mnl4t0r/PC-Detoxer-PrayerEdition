@@ -15,7 +15,7 @@
 - Minor optimization
 - Added an experimental feature **Today Window**
 
-_NOTE: If you want to try the beta release, you should uninstall any previous installation of PC-Detoxer before installing beta version!_
+_NOTE: If you want to try the beta release, you should uninstall any previous installation of PC-Detoxer before installing beta version! If you found any bugs after installing the beta update, please report to use and uninstall the beta update and install the previous version!_
 
 ## Welcome!
 #### Introduction
