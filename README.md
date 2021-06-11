@@ -18,7 +18,7 @@
 _NOTE: If you want to try the beta release, you should uninstall any previous installation of PC-Detoxer before installing beta version! If you found any bugs after installing the beta update, please report to use and uninstall the beta update and install the previous version!_
 
 ### v1.0.2.2-beta (6th of June 2021)
-- Major bug fix (If a trigger time is set to "12:00" or similer, the program will crash at startup)
+- Major bug fix ***(If a trigger time is set to "12:00" or similer, the program will crash at startup)***
 
 _NOTE: Please install this update immediately. This fixes the above mentioned bug!_
 
