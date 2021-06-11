@@ -119,8 +119,8 @@ This program download the the Salah timetable from our database. And every month
 ### To download the program, visit [Releases](https://github.com/ind4mnl4t0r/PC-Detoxer-PrayerEdition/releases)
 
 ### Contact us!:
-- Mail: ind4.official@gmail.com
-- WhatsApp: +94756641169
+- Mail: ind4.official@gmail.com / aaaafzalahamed@gmail.com
+- WhatsApp: +94756641169 / +94702015273
 - Telegram Channel: https://t.me/pc_detoxer_official
 
 ## FAQ:
