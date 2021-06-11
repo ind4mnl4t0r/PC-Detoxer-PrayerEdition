@@ -3,19 +3,24 @@
 # PC-Detoxer© - PrayerEdition
 
 ## Release History
-### v1.0.0.0 (26th April 2021)
+### v1.0.0.0 (26th of April 2021)
 - Initial release
 
-### v1.0.1.0 (2nd May 2021)
+### v1.0.1.0 (2nd of May 2021)
 - Added new cities ***(Trincomalee, Kalkudah, Valaichchenai, Batticaloa, Kalmunai, Akkaraipattu, Pottuvil, Kalpitiya, Puttalam, Anuradhapura, Mannar, Erukkalampiddy, Jaffna)***
 - Added new country and city ***(Canada, Ontario - Kitchener)***
 
-### v1.0.2.1-beta (1st June 2021)
+### v1.0.2.1-beta (1st of June 2021)
 - Few minor bug fixes
 - Minor optimization
 - Added an experimental feature **Today Window**
 
 _NOTE: If you want to try the beta release, you should uninstall any previous installation of PC-Detoxer before installing beta version! If you found any bugs after installing the beta update, please report to use and uninstall the beta update and install the previous version!_
+
+### v1.0.2.2-beta (6th of June 2021)
+- Major bug fix (If a trigger time is set to "12:00" or similer, the program will crash at startup)
+
+_NOTE: Please install this update immediately. This fixes the above mentioned bug!_
 
 ## Welcome!
 #### Introduction
